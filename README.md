@@ -34,7 +34,7 @@
 
 ## 5.- Tema 4: Creando un chatbot con Watson
 		5.1.- Servicios de Watson
-		5.2.- Watson Conversation
+		5.2.- Watson Assistant
 		5.2.1.- Intents
 		5.2.2.- Entities
 		5.2.3.- Dialog
@@ -51,7 +51,7 @@
 		6.3.- Servicios de Watson
 		6.3.1.- Text to speech
 		6.3.2.- Speech to text
-		6.3.3.- Conversation
+		6.3.3.- Assistant
 		6.4.- Configurar a TJBot
 		6.4.1.- Configurar la Raspberry Pi 3
 		6.4.2.- Obtener el código para TJBot
