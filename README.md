@@ -1,58 +1,57 @@
 
 # Watson va a Clase
-## Un programa para aprender Inteligencia Artificial
+## Un programa para aprender INTELIGENCIA ARTIFICIAL
 
 ### CONTENIDOS
 
-### 1.- Introducción
+### Introducción
 
-### 2.- Tema 1: IBM Cloud
-		2.1.- Qué es IBM Cloud
-		2.2.- IBM Watson
-		2.3.- Cómo crear una cuenta en IBM CLoud
-		2.4.- Primeros pasos
-		2.5.- Qué hemos aprendido
+### Tema 1: IBM Cloud
+		- Introducción a IBM Cloud y a la Inteligencia Artificial
+		- IBM Watson
+		- Cómo crear una cuenta en IBM CLoud
+		- Primeros pasos
+		
 
-## 3.- Tema 2: Node-RED
-		3.1.- Qué es Node-RED
-		3.2.- Cómo crear un proyecto
-		3.3.- Ejercicios
-		3.3.1.- Ejercicio 1: Introducción
-		3.3.2.- Ejercicio 2: Incorporación de funciones
-		3.3.3.- Ejercicio 3:  Crear un traductor con Watson
-		3.3.4.- Ejercicio 4: Reconocimiento visual con Watson
-		3.4.- Qué hemos aprendido
+## Tema 2: Node-RED
+		- Qué es Node-RED
+		- Cómo crear un proyecto
+		- Ejercicio 1: Hola Mundo
+		- Ejercicio 2: Traductor
+		- Ejercicio 2: Incorporación de Funciones y Nodos
+		- Ejercicio 3: Reconocimiento Visual y de Texto con Watson
+		- Ejercicio 4: Desarrollo página Web con Node Red
+		
 
-## 4.- Tema 3: Desarrollo web
-		4.1.- HTML
-		4.1.1. - Primera página web
-		4.1.2. - Añadir imágenes
-		4.2.- CSS
-		4.2.1.- Colores
-		4.3.- Crear una Web en Node-RED
-		4.4.- Qué hemos aprendido
+## Tema 3: Creación de un Chatbot con Watson Assitant
+		- Servicios de Watson
+		- Watson Assistant
+			- Intents
+			- Entities
+			- Dialog
 
-## 5.- Tema 4: Creando un chatbot con Watson
-		5.1.- Servicios de Watson
-		5.2.- Watson Assistant
-		5.2.1.- Intents
-		5.2.2.- Entities
-		5.2.3.- Dialog
-		5.3.- Creación de un chatbot con Telegram
-		5.3.1.- Cómo funciona Telegram
-		5.3.2.- Desarrollo en Node-RED
-		5.4.- Qué hemos aprendido
+## Tema 4: Proyecto final: TJBot
+		- Cómo crear a TJBot
+			- Rapsberry Pi3
+		- Montando a TJBot
+			- Cómo conectar los componentes
+		- Servicios de Watson
+			- Text to speech
+			- Speech to text
+			- Assistant
+		- Configurar a TJBot
+			- Configurar la Raspberry Pi 3
+			- Obtener el código para TJBot
+		- Probando y entrenando a TJBot
+		
+## Tema 5: Creación de un chatbot con Telegram
+		- Cómo funciona Telegram
+		- Desarrollo en Node-RED
 
-## 6.- Proyecto final: TJBot
-		6.1.- Cómo crear a TJBot
-		6.1.1.- Rapsberry Pi3
-		6.2.- Montando a TJBot
-		6.2.1.- Cómo conectar los componentes
-		6.3.- Servicios de Watson
-		6.3.1.- Text to speech
-		6.3.2.- Speech to text
-		6.3.3.- Assistant
-		6.4.- Configurar a TJBot
-		6.4.1.- Configurar la Raspberry Pi 3
-		6.4.2.- Obtener el código para TJBot
-		6.4.2.- Probando a TJBot
+## Tema 6: Desarrollo web
+		- HTML
+			- Primera página web
+			- Añadir imágenes
+		- CSS
+		- Crear una Web en Node-RED
+	
