@@ -13,7 +13,7 @@
 		- Primeros pasos
 		
 
-## Tema 2: Node-RED
+### Tema 2: Node-RED
 		- Qué es Node-RED
 		- Cómo crear un proyecto
 		- Ejercicio 1: Hola Mundo
@@ -23,14 +23,14 @@
 		- Ejercicio 4: Desarrollo página Web con Node Red
 		
 
-## Tema 3: Creación de un Chatbot con Watson Assitant
+### Tema 3: Creación de un Chatbot con Watson Assitant
 		- Servicios de Watson
 		- Watson Assistant
 			- Intents
 			- Entities
 			- Dialog
 
-## Tema 4: Proyecto final: TJBot
+### Tema 4: Proyecto final: TJBot
 		- Cómo crear a TJBot
 			- Rapsberry Pi3
 		- Montando a TJBot
@@ -44,11 +44,11 @@
 			- Obtener el código para TJBot
 		- Probando y entrenando a TJBot
 		
-## Tema 5: Creación de un chatbot con Telegram
+### Tema 5: Creación de un chatbot con Telegram
 		- Cómo funciona Telegram
 		- Desarrollo en Node-RED
 
-## Tema 6: Desarrollo web
+### Tema 6: Desarrollo web
 		- HTML
 			- Primera página web
 			- Añadir imágenes
