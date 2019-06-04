@@ -18,12 +18,12 @@
 		- Cómo crear un proyecto
 		- Ejercicio 1: Hola Mundo
 		- Ejercicio 2: Traductor
-		- Ejercicio 2: Incorporación de Funciones y Nodos
-		- Ejercicio 3: Reconocimiento Visual y de Texto con Watson
-		- Ejercicio 4: Desarrollo página Web con Node Red
+		- Ejercicio 3: Incorporación de Funciones y Nodos
+		- Ejercicio 4: Reconocimiento Visual y de Texto con Watson
+		- Ejercicio 5: Desarrollo página Web con Node Red
 		
 
-### Tema 3: Creación de un Chatbot con Watson Assitant
+### Tema 3: Creación de un Chatbot con Watson Assistant
 		- Servicios de Watson
 		- Watson Assistant
 			- Intents
