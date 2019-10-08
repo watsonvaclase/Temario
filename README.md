@@ -29,8 +29,12 @@
 			- Intents
 			- Entities
 			- Dialog
+		
+### Tema 4: Creación de un chatbot con Telegram
+		- Cómo funciona Telegram
+		- Desarrollo en Node-RED
 
-### Tema 4: Proyecto final: TJBot
+### Tema 5: Proyecto final: TJBot
 		- Cómo crear a TJBot
 			- Rapsberry Pi3
 		- Montando a TJBot
@@ -43,10 +47,6 @@
 			- Configurar la Raspberry Pi 3
 			- Obtener el código para TJBot
 		- Probando y entrenando a TJBot
-		
-### Tema 5: Creación de un chatbot con Telegram
-		- Cómo funciona Telegram
-		- Desarrollo en Node-RED
 
 ### Tema 6: Desarrollo web
 		- HTML
