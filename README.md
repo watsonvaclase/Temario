@@ -6,8 +6,6 @@
 
 ### TEMARIO
 
-### Introducción
-
 ### Tema 1: IBM Cloud
 		- Introducción a IBM Cloud y a la Inteligencia Artificial
 		- IBM Watson
