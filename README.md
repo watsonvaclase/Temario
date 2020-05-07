@@ -35,17 +35,19 @@
 		- Desarrollo en Node-RED
 
 ### Tema 5: TJBot virtual en Node-RED
+		- Instalación y configuración de Containers con Docker
+		- Configuración Servicios Watson
+		- Node-Red con Nodos Virtuales del TJBot
+		- Dispositivos externos
+			- Cámara
+			- Micrófono
+			- Altavoz
 		- Servicios de Watson
 			- Text to speech
 			- Speech to text
 			- Assistant
-			- Tone Analyze
-			- Translator
-		- Combinar TJBot virtual con dispositivos externos
-			- Cámara
-			- Micrófono
-			- Altavoz
-		- Probando y entrenando a TJBot Virtual
+		- Crea tus propios Ejercicios y Propuestas
+		
 
 ### Tema 6: Desarrollo web
 		- HTML
