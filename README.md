@@ -34,19 +34,18 @@
 		- Cómo funciona Telegram
 		- Desarrollo en Node-RED
 
-### Tema 5: Proyecto final: TJBot
-		- Cómo crear a TJBot
-			- Rapsberry Pi3
-		- Montando a TJBot
-			- Cómo conectar los componentes
+### Tema 5: TJBot virtual en Node-RED
 		- Servicios de Watson
 			- Text to speech
 			- Speech to text
 			- Assistant
-		- Configurar a TJBot
-			- Configurar la Raspberry Pi 3
-			- Obtener el código para TJBot
-		- Probando y entrenando a TJBot
+			- Tone Analyze
+			- Translator
+		- Combinar TJBot virtual con dispositivos externos
+			- Cámara
+			- Micrófono
+			- Altavoz
+		- Probando y entrenando a TJBot Virtual
 
 ### Tema 6: Desarrollo web
 		- HTML
